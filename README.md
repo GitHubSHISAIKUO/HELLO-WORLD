@@ -27,3 +27,4 @@ THIS IS MY FIRST GITHUB,I want note it~
 二、记录我的第一次github记录
     1、this is amazing test!
     2、I think I really like it.
+    3、我正在学习GitHub和Idea的结合应用
