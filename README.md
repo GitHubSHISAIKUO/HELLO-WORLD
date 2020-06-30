@@ -24,3 +24,6 @@ THIS IS MY FIRST GITHUB,I want note it~
     21、ColorSet
     22、dependency
     23、beyond compare
+二、记录我的第一次github记录
+    1、this is amazing test!
+    2、I think I really like it.
