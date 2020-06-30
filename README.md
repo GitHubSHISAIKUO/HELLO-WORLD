@@ -1,3 +1,1 @@
-# HELLO-WORLD
-我的第一个GitHub库
-师赛阔
+THIS IS MY FIRST GITHUB,I want note it~
